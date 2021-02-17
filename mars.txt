@@ -4,4 +4,11 @@ But the mummy will appreciate the lack of unity
 An ill considered change
 Howdy, Martians
 J-liza in da house!
+<<<<<<< HEAD
 JON IS MAKING A CONFLICT! WHAT IS HAPPENING! OMG!
+=======
+Ahhh what is happeniiiing
+>>>>>>> d951c123b67bdfbb6a9a5bb972152f80badeebdf
+
+
+Uhhh this is what was here lol. Now you can see the message!
